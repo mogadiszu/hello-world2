@@ -1,2 +1,2 @@
 # hello-world2
-Hello
+Hello, I like the sun
